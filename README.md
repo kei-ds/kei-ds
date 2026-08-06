@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there，I am Keids. 
 
-<!--
-**kei-ds/kei-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nice to see you.
 
-Here are some ideas to get you started:
+my mail:540653647@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Reach Me ☝️☝️☝️
+
+- My recent research focuses on computer vision (**CV**), with particular emphasis on embodied intelligence and **VLA**.
+- I am still in the learning phase and look forward to making progress together with you ！
+
+My favorite character：
+
+![G825oGEaQAAUIf5](G825oGEaQAAUIf5.jpg)
