@@ -17,7 +17,7 @@ https://github.com/kei-ds/LAN_clipboard ：A small tool for real-time text synch
 
 https://github.com/kei-ds/data_generation_for_oj ：A small graphical tool for generating test data for OJ/algorithm competition problems.
 
-
+https://github.com/kei-ds/DeepSeekUsageWidget ：常驻桌面最上层的无边框小挂件，用来实时查看 DeepSeek 账号的余额与 token 用量。支持鼠标穿透，模块自由增删、拖拽排列。
 
 My favorite character：
 
