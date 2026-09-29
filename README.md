@@ -9,7 +9,7 @@ my mail:540653647@qq.com
 - My recent research focuses on computer vision (**CV**), with particular emphasis on embodied intelligence and **VLA**.
 - I am still in the learning phase and look forward to making progress together with you ！
 
-#### Some interesting projects made by me：
+#### Some interesting projects made by myself：
 
 https://github.com/kei-ds/Daily-tasks-and-to-do-lists ：A to-do widget that resides on the desktop.（一个常驻桌面的待办小组件。无边框、始终置顶、可拖动缩放、面板半透明、可最小化到系统托盘。）
 
